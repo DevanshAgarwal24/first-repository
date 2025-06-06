@@ -1,2 +1,3 @@
 # first-repository
-this my first repositery
+This my first Git Repositery.
+
